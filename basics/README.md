@@ -1,0 +1,1 @@
+"Script showing current working directory"
